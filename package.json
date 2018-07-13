@@ -1,0 +1,23 @@
+{
+  "name": "resin-raspotify",
+  "version": "1.0.0",
+  "description": "Spotify from raspberry through resin.io",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "url": "github.com/StPaulis/resin-raspotify"
+  },
+  "license": "MIT",
+  "keywords": [
+    "resin.io",
+    "raspberry",
+    "raspotify",
+    "nodejs"
+  ],
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
